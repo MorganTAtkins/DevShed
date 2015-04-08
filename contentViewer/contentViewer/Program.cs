@@ -17,7 +17,7 @@ namespace contentViewer
 		
 			CsvOptions CsvOptions = new CsvOptions (files);
 
-			Hash hash = new Hash ();
+			Hash hash = new Hash (); 
 			hash.GetHash (sDir);
 
 		}
