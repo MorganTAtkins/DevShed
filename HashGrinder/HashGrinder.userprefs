@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="HashGrinder\HashGrinder.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HashGrinder\Program.cs">
+    <Files>
+      <File FileName="HashGrinder\Program.cs" Line="20" Column="3" />
+      <File FileName="HashGrinder\Properties\CsvOptions.cs" Line="4" Column="22" />
+      <File FileName="HashGrinder\Properties\EmptyClass.cs" Line="4" Column="22" />
+      <File FileName="HashGrinder\Properties\fileChooser.cs" Line="4" Column="3" />
+      <File FileName="HashGrinder\Properties\FilesInfo2CSV.cs" Line="5" Column="22" />
+      <File FileName="HashGrinder\Properties\Hash.cs" Line="12" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="HashGrinder" expanded="True">
+            <Node name="Properties" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+E:\Repo\HashGrinder\HashGrinder\HashGrinder\obj\x86\Debug\HashGrinder.csprojResolveAssemblyReference.cache
+E:\Repo\HashGrinder\HashGrinder\HashGrinder\bin\Debug\HashGrinder.exe
+E:\Repo\HashGrinder\HashGrinder\HashGrinder\bin\Debug\HashGrinder.pdb
+E:\Repo\HashGrinder\HashGrinder\HashGrinder\obj\x86\Debug\HashGrinder.exe
+E:\Repo\HashGrinder\HashGrinder\HashGrinder\obj\x86\Debug\HashGrinder.pdb
