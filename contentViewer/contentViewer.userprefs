@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="contentViewer\contentViewer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="contentViewer\Program.cs">
+    <Files>
+      <File FileName="contentViewer\Program.cs" Line="20" Column="29" />
+      <File FileName="contentViewer\Properties\fileChooser.cs" Line="21" Column="3" />
+      <File FileName="contentViewer\Properties\EmptyClass.cs" Line="26" Column="19" />
+      <File FileName="contentViewer\Properties\FilesInfo2CSV.cs" Line="21" Column="29" />
+      <File FileName="contentViewer\Properties\CsvOptions.cs" Line="23" Column="3" />
+      <File FileName="contentViewer\Properties\Hash.cs" Line="70" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

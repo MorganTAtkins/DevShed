@@ -1,0 +1,5 @@
+C:\Users\morgan\Documents\Projects\contentViewer\contentViewer\bin\Debug\contentViewer.exe
+C:\Users\morgan\Documents\Projects\contentViewer\contentViewer\bin\Debug\contentViewer.pdb
+C:\Users\morgan\Documents\Projects\contentViewer\contentViewer\obj\x86\Debug\contentViewer.csprojResolveAssemblyReference.cache
+C:\Users\morgan\Documents\Projects\contentViewer\contentViewer\obj\x86\Debug\contentViewer.exe
+C:\Users\morgan\Documents\Projects\contentViewer\contentViewer\obj\x86\Debug\contentViewer.pdb
