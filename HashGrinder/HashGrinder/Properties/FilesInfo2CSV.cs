@@ -31,12 +31,19 @@ namespace HashGrinder
 			foreach (string value in files) 
 			{
 				
-				Console.WriteLine (value);
+
+				Console.WriteLine ("Value = "+value);
+				Hash hash = new Hash();
+				String hashes = hash.GetHash (value);
+				Console.WriteLine("hash = "+hashes );
+				//String valuehash = hash.GetHashString ();
+
 
 				csv.AppendLine(value);    
+				Console.WriteLine (value);
 
 			}
-			File.WriteAllText(csvPath, csv.ToString());
+			File.WriteAllText(csvPath,csv.ToString());
 	    }
 	}
 }

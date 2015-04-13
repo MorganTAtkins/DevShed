@@ -16,6 +16,7 @@ namespace HashGrinder
 			CsvOptions Csvoptions = new CsvOptions (files);
 			Hash hash = new Hash ();
 			hash.GetHash (sDir);
+
 		}
 	}
 }

@@ -8,12 +8,14 @@ namespace HashGrinder
 {
 	public class Hash
 	{
+		public String hashValueString;
+
 		public Hash ()
 		{
 		}
 
 
-		public void GetHash(String sDir)
+		public String GetHash(String sDir)
 		{
 			// Create a DirectoryInfo object representing the specified directory.
 			DirectoryInfo dir = new DirectoryInfo (sDir);
@@ -65,7 +67,7 @@ namespace HashGrinder
 							//String hashValueString = Convert.ToString (sBuilder);
 							// Write the hash value to the Console.
 							}
-						    String hashValueString = Convert.ToString (sBuilder);
+						    hashValueString = Convert.ToString (sBuilder);
 							// Write the hash value to the Console.
 							Console.WriteLine ("MD5 hash: " + hashValueString);
 							//Close the file.
@@ -74,7 +76,8 @@ namespace HashGrinder
 					
 				}
 				}
-							return;
+
+
 				
 			}
 			catch(IOException)
@@ -82,9 +85,14 @@ namespace HashGrinder
 				Console.WriteLine ("Something dun fucked");
 			}
 
-		
+			return hashValueString;
 		}
 
+		public String GetHashString()
+		{
+			
+			return hashValueString;
+		}
 	}
 }
 
